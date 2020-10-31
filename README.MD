@@ -1,0 +1,1 @@
+Simple interface for creating and configuring [Uber's go logging library](https://github.com/uber-go/zap)
